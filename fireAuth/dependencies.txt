@@ -1,0 +1,7 @@
+expo install firebase
+npm install react-native-datepicker --save
+npm install react-native-elements
+npm install --save react-navigation
+npm install @react-navigation/native
+npm install @react-navigation/stack
+npm install react-native-gesture-handler
